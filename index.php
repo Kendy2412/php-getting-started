@@ -123,7 +123,7 @@
                            <a href="#"></a>
                     </h3>
                        
-                       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+                       <p>Specializing in providing genuine goods </p>
                        
                    </div><!-- box same-height Finish -->
                    
@@ -141,7 +141,7 @@
                        
                        <h3><a href="#">Best Prices</a></h3>
                        
-                       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                       <p>Best price compared to other shops</p>
                        
                    </div><!-- box same-height Finish -->
                    
@@ -160,7 +160,7 @@
                        <h3><body>
    
    <?php
-     $text = 'Best Offer';  
+     $text = 'Best After-sale ';  
      $text = preg_replace('/(\b[a-z])/i','<span style="color:blue;">\1</span>',$text);  
      echo $text;
    ?>
@@ -168,7 +168,7 @@
 </body>
 </html></h3>
                        
-                       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                       <p>Hygiene and lifetime maintenance.</p>
                        
                    </div><!-- box same-height Finish -->
                    
